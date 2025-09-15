@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "1oFLBrU6h0iOddYCHPoKBBQ2LaBVmNTxi4DB2q0Z0Zk=",
+  "Source": "EffectiveMobileAdWebApi",
+  "BasePath": "_content/EffectiveMobileAdWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

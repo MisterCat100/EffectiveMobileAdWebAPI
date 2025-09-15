@@ -1,0 +1,64 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "EffectiveMobileAdWebApi",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Advertisement/search-by-address/{address}": {
+      "get": {
+        "tags": [
+          "Advertisement"
+        ],
+        "parameters": [
+          {
+            "name": "address",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Advertisement": {
+      "post": {
+        "tags": [
+          "Advertisement"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "formFile": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "formFile": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

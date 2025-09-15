@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "EffectiveMobileAdWebApi.Controllers.AdvertisementController",
+    "Method": "LoadPlatformsFromFile",
+    "RelativePath": "api/Advertisement",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "formFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EffectiveMobileAdWebApi.Controllers.AdvertisementController",
+    "Method": "SearchByAddress",
+    "RelativePath": "api/Advertisement/search-by-address/{address}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "address",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
