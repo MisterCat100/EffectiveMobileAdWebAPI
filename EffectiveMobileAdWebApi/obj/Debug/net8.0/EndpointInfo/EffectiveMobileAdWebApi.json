@@ -27,7 +27,7 @@
         }
       }
     },
-    "/api/Advertisement": {
+    "/api/Advertisement/load-platforms-from-file": {
       "post": {
         "tags": [
           "Advertisement"

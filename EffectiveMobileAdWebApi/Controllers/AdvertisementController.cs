@@ -38,7 +38,7 @@ public class AdvertisementController : ControllerBase
         return Ok(adPlatforms);
     }
 
-    [HttpPost]
+    [HttpPost("load-platforms-from-file")]
     public async Task<IActionResult> LoadPlatformsFromFile(IFormFile formFile)
     {
         if (Path.GetExtension(formFile.FileName) != ".txt")

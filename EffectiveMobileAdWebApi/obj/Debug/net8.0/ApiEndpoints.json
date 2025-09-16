@@ -2,7 +2,7 @@
   {
     "ContainingType": "EffectiveMobileAdWebApi.Controllers.AdvertisementController",
     "Method": "LoadPlatformsFromFile",
-    "RelativePath": "api/Advertisement",
+    "RelativePath": "api/Advertisement/load-platforms-from-file",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
