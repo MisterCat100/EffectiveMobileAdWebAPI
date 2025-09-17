@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EffectiveMobileAdWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+956ec879617cae8d15ee5954c3468f13ea4a121a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0802094785a5f4cdc11c08f550436e81389706e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("EffectiveMobileAdWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EffectiveMobileAdWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
