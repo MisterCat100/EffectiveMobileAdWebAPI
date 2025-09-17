@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EffectiveMobileAdWebApiTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0802094785a5f4cdc11c08f550436e81389706e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54267d5cd5e27dacd4907e2da537c0fe12fdbc04")]
 [assembly: System.Reflection.AssemblyProductAttribute("EffectiveMobileAdWebApiTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EffectiveMobileAdWebApiTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
